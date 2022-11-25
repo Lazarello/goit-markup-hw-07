@@ -14,10 +14,6 @@ ol {
   padding-left: 0;
 }
 
-a:visited {
-  text-decoration: none;
-}
-
 button {
   cursor: pointer;
 }
@@ -47,4 +43,8 @@ input {
 
 a:visited {
   text-decoration: none;
+}
+
+textarea {
+  resize: none;
 }
